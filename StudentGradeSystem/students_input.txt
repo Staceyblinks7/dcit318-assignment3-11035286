@@ -1,0 +1,5 @@
+101, Yaa Aba Smith, 84
+102, Paa Dan, 72
+103, Charlie King, 55
+104, Bruce Lee, 40
+105, Sarah Adom, 95

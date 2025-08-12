@@ -1,0 +1,5 @@
+Yaa Aba Smith (ID: 101): Score = 84, Grade = A
+Paa Dan (ID: 102): Score = 72, Grade = B
+Charlie King (ID: 103): Score = 55, Grade = D
+Bruce Lee (ID: 104): Score = 40, Grade = F
+Sarah Adom (ID: 105): Score = 95, Grade = A
